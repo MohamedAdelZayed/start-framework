@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "flowbite";
+
+.active{
+    background-color: #1ABC9C;
+    transition: all;
+    transition-duration: 0.8s;
+}
